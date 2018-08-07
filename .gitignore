@@ -44,3 +44,5 @@ buck-out/
 \.buckd/
 *.keystore
       
+# iOS dependencies
+ios/Pods
